@@ -1,0 +1,17 @@
+{
+  "consulta": "2026-10-16",
+  "titular": "KINROSS BRASIL MINERACAO S/A",
+  "poligonais_anteriores": 117,
+  "poligonais_brasil": 237,
+  "processos_distintos": 235,
+  "processos_adicionados": 120,
+  "processos_anteriores_ausentes": [],
+  "por_uf": {
+    "MG": 122,
+    "PA": 7,
+    "GO": 107,
+    "MT": 1
+  },
+  "poligonais_completo": 1800,
+  "fonte": "https://geo.anm.gov.br/arcgis/rest/services/SIGMINE/dados_anm/MapServer/0"
+}
